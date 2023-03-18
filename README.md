@@ -14,6 +14,7 @@
 
 ## Table of Contents
 
+- [Links](#links)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -23,6 +24,9 @@
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Links
+[E-Commerce Back End Walkthrough Video]()
+
 ## Description
 This is the back end for an e-commerce site. It uses a working Express.js API and is configured to use Sequelize to interact with a MySQL database.
 
@@ -30,23 +34,19 @@ This is the back end for an e-commerce site. It uses a working Express.js API an
 Follow these commands to run the command-line application:  
 
     npm i
-    cd ./db/
+    cd ./db
     mysql -u root -p
     input password
     source schema.sql;
     exit;
     cd ..
-    node seeds/index.js
+    npm seed
     npm start
     ^C to exit
 
 ## Usage
 
-
-
   ![Usage](assets/images/screenshot.png)
-
-    
 
 ## Credits
 
@@ -54,8 +54,6 @@ Follow these commands to run the command-line application:
 :email: [Email](mailto:davidmackey@hey.com)<br>
 :octocat: [GitHub](https://github.com/davidmichaelmackey/)<br>
 :briefcase: [Linkedin](https://linkedin.com/in/davidmichaelmackey/)<br>
-
-
 
 ### Resources
 
@@ -70,15 +68,15 @@ Follow these commands to run the command-line application:
 
 ## Toolset
 
-<p align="center"><img src="https://img.shields.io/badge/-JS-grey?style=for-the-badge"  alt="JS" />
-      <img src="https://img.shields.io/badge/-NodeJS-grey?style=for-the-badge"  alt="NodeJS" />
-      <img src="https://img.shields.io/badge/-NPM-grey?style=for-the-badge"  alt="NPM" />
-      <img src="https://img.shields.io/badge/-DotEnv-grey?style=for-the-badge"  alt="DotEnv" />
-      <img src="https://img.shields.io/badge/-ExpressJS-grey?style=for-the-badge"  alt="ExpressJS" />
-      <img src="https://img.shields.io/badge/-MySQL2-grey?style=for-the-badge"  alt="MySQL2" />
-      <img src="https://img.shields.io/badge/-Sequelize-grey?style=for-the-badge"  alt="Sequelize" />
-      <img src="https://img.shields.io/badge/-Insomnia-grey?style=for-the-badge"  alt="Insomnia" />
-      
+<p align="center">
+    <img src="https://img.shields.io/badge/-JS-F6DD4A?style=for-the-badge"  alt="JS" />
+    <img src="https://img.shields.io/badge/-NodeJS-57B166?style=for-the-badge"  alt="NodeJS" />
+    <img src="https://img.shields.io/badge/-NPM-D32D26?style=for-the-badge"  alt="NPM" />
+    <img src="https://img.shields.io/badge/-DotEnv-grey?style=for-the-badge"  alt="DotEnv" />
+    <img src="https://img.shields.io/badge/-ExpressJS-181E25?style=for-the-badge"  alt="ExpressJS" />
+    <img src="https://img.shields.io/badge/-MySQL2-2E6BE8?style=for-the-badge"  alt="MySQL2" />
+    <img src="https://img.shields.io/badge/-Sequelize-D79233?style=for-the-badge"  alt="Sequelize" />
+    <img src="https://img.shields.io/badge/-Insomnia-6730EA?style=for-the-badge"  alt="Insomnia" />  
 </p>
 
 ## License
@@ -90,13 +88,8 @@ Follow these commands to run the command-line application:
 
 [Contributor Covenant](https://www.contributor-covenant.org/)
 
-## Tests
-
-n/a
-
 ## Questions
 
 Have Questions?
 <br>
 Feel free send me an [email](mailto:davidmackey@hey.com) or reach out to me on [Linkedin](https://linkedin.com/in/davidmichaelmackey/).
-
