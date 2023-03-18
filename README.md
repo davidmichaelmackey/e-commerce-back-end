@@ -57,12 +57,12 @@ Follow these commands to run the command-line application:
 
 ### Resources
 
-  [Sequelize](https://sequelize.org/docs/v6/)
-  [DotEnv](https://www.npmjs.com/package/dotenv)
-  [Async / Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
-  [Try...Catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
-  [RESTful API's](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services)
-  [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+  [Sequelize](https://sequelize.org/docs/v6/)<br>
+  [DotEnv](https://www.npmjs.com/package/dotenv)<br>
+  [Async / Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)<br>
+  [Try...Catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)<br>
+  [RESTful API's](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services)<br>
+  [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)<br>
 
 ## Toolset
 
