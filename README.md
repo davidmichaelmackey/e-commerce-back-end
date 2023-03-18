@@ -72,11 +72,11 @@ Follow these commands to run the command-line application:
     <img src="https://img.shields.io/badge/-JS-F6DD4A?style=for-the-badge"  alt="JS" />
     <img src="https://img.shields.io/badge/-NodeJS-57B166?style=for-the-badge"  alt="NodeJS" />
     <img src="https://img.shields.io/badge/-NPM-D32D26?style=for-the-badge"  alt="NPM" />
-    <img src="https://img.shields.io/badge/-DotEnv-grey?style=for-the-badge"  alt="DotEnv" />
+    <img src="https://img.shields.io/badge/-DotEnv-33363D?style=for-the-badge"  alt="DotEnv" />
     <img src="https://img.shields.io/badge/-ExpressJS-181E25?style=for-the-badge"  alt="ExpressJS" />
-    <img src="https://img.shields.io/badge/-MySQL2-2E6BE8?style=for-the-badge"  alt="MySQL2" />
-    <img src="https://img.shields.io/badge/-Sequelize-D79233?style=for-the-badge"  alt="Sequelize" />
-    <img src="https://img.shields.io/badge/-Insomnia-6730EA?style=for-the-badge"  alt="Insomnia" />  
+    <img src="https://img.shields.io/badge/-MySQL2-0A1620?style=for-the-badge"  alt="MySQL2" />
+    <img src="https://img.shields.io/badge/-Sequelize-1E3050?style=for-the-badge"  alt="Sequelize" />
+    <img src="https://img.shields.io/badge/-Insomnia-712BF5?style=for-the-badge"  alt="Insomnia" />  
 </p>
 
 ## License
