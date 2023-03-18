@@ -25,7 +25,7 @@
 - [Questions](#questions)
 
 ## Links
-[E-Commerce Back End Walkthrough Video]()
+[E-Commerce Back End Walkthrough Video](https://www.loom.com/share/709f1e6cf3194cfeb961eb0542b249cf)
 
 ## Description
 This is the back end for an e-commerce site. It uses a working Express.js API and is configured to use Sequelize to interact with a MySQL database.
